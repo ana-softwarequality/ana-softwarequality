@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ana-softwarequality/ana-softwarequality/blob/main/Texto do seu parágrafo" alt="Banner Ana Carolina Moreira" width="100%">
+</p>
 #  Olá, eu sou a Ana Carolina! 🐞  
 **Analista de Testes de Software Pleno** apaixonada por **Garantia da Qualidade (QA)**, **processos bem definidos** e **entregas de alto impacto**.
 
